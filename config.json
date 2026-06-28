@@ -1,6 +1,10 @@
 {
-   "emojiBase": "https://raw.githubusercontent.com/username/repo/main/emojis/emoji_",
-   "emojiCount": 40,
-   "stickerBase": "https://raw.githubusercontent.com/username/repo/main/stickers/sticker_",
-   "stickerCount": 20
+  "emojis": {
+    "1": "https://raw.githubusercontent.com/username/repo/main/images/emoji1.png",
+    "2": "https://raw.githubusercontent.com/username/repo/main/images/emoji2.png"
+  },
+  "stickers": {
+    "1": "https://raw.githubusercontent.com/username/repo/main/images/sticker1.webp",
+    "2": "https://raw.githubusercontent.com/username/repo/main/images/sticker2.webp"
+  }
 }
